@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rene
+### Aloha 👋 I'm Rene
 ###### HTML-Email Developer | Web Developer | Front-End Developer | JavaScript, HTML & CSS
 <!--
 **AlohaRene/AlohaRene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
