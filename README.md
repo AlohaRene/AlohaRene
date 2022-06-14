@@ -1,4 +1,6 @@
-
+## Aloha 👋 I'm Rene
+###### HTML-Email Developer | Web Developer | Front-End Developer | JavaScript, HTML & CSS
+### 🔭 I’m currently working on  HTML & CSS, JavaScript
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aloha_rene_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aloharene) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Aloha_Rene) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aloha_Rene) 
 
