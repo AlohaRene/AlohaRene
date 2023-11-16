@@ -16,3 +16,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlohaRene&icon=0&color=0)](https://visitcount.itsvg.in)
+[![An image of @aloharene's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aloharene)](https://holopin.io/@aloharene)
